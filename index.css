@@ -1,7 +1,7 @@
 body{
     margin: 0;
     font-family: 'Times New Roman';
-    
+    background-color: rgb(255, 255, 255);
 }
 
 .titulo{
@@ -10,7 +10,7 @@ body{
 }
 
 .sub{
-    color: #005813;
+    color: #00001b;
 }
 
 header{
@@ -26,6 +26,7 @@ header{
     margin-bottom: 16px;
     border-width: 1px;
     padding: 10px;
+    background-color: rgb(255, 255, 255);
 }
 
 footer{
